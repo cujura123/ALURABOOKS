@@ -38,3 +38,19 @@
     padding: 1em;
     background-color: var(--branco);
 }
+.lista-menu__titulo {
+    color: var(--laranja);
+    font-weight: 700;
+}
+
+.lista-menu_link {
+    background: var(azul-degrade);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    backgroud-clip: text;
+    text-transform: uppercase
+}
+
+.container__botao:{
+    display: none;
+}
